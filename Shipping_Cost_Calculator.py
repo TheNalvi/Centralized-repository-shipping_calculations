@@ -1,5 +1,7 @@
 # Here is a new update by TheNalvi
 
+#SUPER MEGA BO SINN UPDATE!!!!!!
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
